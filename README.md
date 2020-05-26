@@ -1,2 +1,3 @@
 # Mapa-interactivo-COVID-19-Reg-Murcia
-Mapa interactivo de los casos detectados de COVID-19 en la Región de Murcia
+
+Descargando el archivo [COVID-19_RM.zip](https://github.com/EfraCL/Mapa-interactivo-COVID-19-Reg-Murcia/blob/master/COVID-19_RM.zip)
